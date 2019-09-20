@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 
-public class Topic_02_XPath_Css_Part_1 {
+public class Topic_03_XPath_Css {
 
 	WebDriver driver;
 

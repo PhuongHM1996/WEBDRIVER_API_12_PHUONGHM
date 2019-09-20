@@ -17,7 +17,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic_03_WebBrowser_WebElement_APIs {
+public class Topic_05_WebBrowser_Element {
 
 	WebDriver driver;
 
